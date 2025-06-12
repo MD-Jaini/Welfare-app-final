@@ -30,6 +30,7 @@ Visit `http://localhost:3000` in your browser.
 ├── package.json
 ├── vite.config.js
 └── src/
+    ├── main.jsx
     └── WelfareApp.jsx
 ```
 
