@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import WelfareApp from "./WelfareApp.jsx";
+import Welfare-app-final from "./WelfareApp.jsx";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<WelfareApp />);
+root.render(<Welfare-app-final />);
